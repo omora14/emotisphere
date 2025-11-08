@@ -1,0 +1,11 @@
+[
+  { "lat": 40.7128, "lng": -74.0060, "emotion": "happy", "intensity": 0.8 },
+  { "lat": 34.0522, "lng": -118.2437, "emotion": "sad", "intensity": 0.6 },
+  { "lat": 51.5074, "lng": -0.1278, "emotion": "angry", "intensity": 0.7 },
+  { "lat": 35.6895, "lng": 139.6917, "emotion": "surprised", "intensity": 0.9 },
+  { "lat": -33.8688, "lng": 151.2093, "emotion": "happy", "intensity": 0.85 },
+  { "lat": 55.7558, "lng": 37.6173, "emotion": "sad", "intensity": 0.5 },
+  { "lat": 19.4326, "lng": -99.1332, "emotion": "happy", "intensity": 0.75 },
+  { "lat": -22.9068, "lng": -43.1729, "emotion": "surprised", "intensity": 0.8 }
+]
+
