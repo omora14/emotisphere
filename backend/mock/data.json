@@ -1,0 +1,6 @@
+[
+  { "lat": 40.7128, "lng": -74.0060, "emotion": "happy", "intensity": 0.8 },
+  { "lat": 34.0522, "lng": -118.2437, "emotion": "sad", "intensity": 0.6 },
+  { "lat": 51.5074, "lng": -0.1278, "emotion": "angry", "intensity": 0.7 },
+  { "lat": 35.6895, "lng": 139.6917, "emotion": "surprised", "intensity": 0.9 }
+]
